@@ -1,2 +1,2 @@
-# The-MIPS-Collection
+# The MIPSCollection
 Program done in MIPS assembly for CPSC 440. Programs run through QtSPIM simulator.
